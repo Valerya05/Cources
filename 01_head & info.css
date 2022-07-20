@@ -1,0 +1,24 @@
+
+.avatar {
+    width: 400px;
+    border-radius: 50px;
+    margin: 20px 40px 30px 40px;
+    box-shadow: 14px 14px 14px 0 rgba(0, 0, 0, .5);
+}
+
+.info {
+    display: flex;
+}
+
+.info p {
+    font-size: 25px;
+    margin: 50px 0;
+}
+
+.up h1 {
+    margin: 0;
+    border: 0;
+    padding: 15px;
+    text-align: center;
+    background-color: rgba(233, 150, 122, 0.8);
+}

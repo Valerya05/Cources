@@ -1,0 +1,57 @@
+.alg {
+    background-color: rgba(0, 255, 255, .5);
+}
+
+.prog {
+    background-color: pink;
+}
+
+.exam {
+    background-color: rgba(147, 112, 216, .5);
+}
+
+.cources h2 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.cources h3 {
+    text-align: center;
+    padding-top: 5px;
+}
+
+
+.cource {
+    display: inline-block;
+    width: 31.6%;
+    margin: 10px;
+    border-radius: 30px;
+}
+ 
+.cources {
+    width: 100%;
+}
+
+.cource ul li {
+    padding: 10px;
+    list-style: circle;
+}
+
+.btn {
+    background-color: white;
+    border: 2px solid grey;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px auto 30px auto;
+    display: block;
+    width: 250px;
+    transition: all .2s;
+}
+
+.btn:hover {
+    cursor: pointer;
+    width: 300px;
+    font-size: 25px;
+}

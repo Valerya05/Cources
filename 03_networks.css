@@ -1,0 +1,17 @@
+.network {
+    background-color: rgba(143, 188, 170, 0.5);
+    padding: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+.network a {
+    padding: 0px 150px;
+    color: darkslategray;
+    text-decoration: none;
+}
+
+.network a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
